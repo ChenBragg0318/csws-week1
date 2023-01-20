@@ -1,5 +1,5 @@
-print("Hello world !")
-
+msg = "Hello World!"
+print(msg)
 for x in range(10):
-    print ("Hello world!"+str(x))
+    print (msg+str(x))
     
